@@ -52,7 +52,7 @@ func deadmanAlert() error {
 }
 
 func deliverDeadmanPayload() {
-	// send an email similar to alert. perhaps a text file?
+	// send an email similar to deadmanAlert? perhaps a text file?
 	fmt.Println("i'm dead")
 }
 
